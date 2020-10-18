@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,CAAC,CAAC;EACE,MAAM,EAAE,CAAC;CACZ",
+    "sources": [
+        "../../scss/container.scss",
+        "../../scss/Utilities/_variables.scss",
+        "../../scss/Utilities/_reset.scss",
+        "../../scss/Layout/main.scss",
+        "../../scss/Utilities/_mediaQueries.scss"
+    ],
+    "names": [],
+    "file": "container.css"
+}
