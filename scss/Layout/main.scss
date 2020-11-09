@@ -377,32 +377,6 @@ body {
     }
 }
 
-.button1 {
-    padding: 10px 45px;
-    background-color: $primary-light-blue;
-    color: $primary-white;
-    text-decoration: none !important;
-    position: relative;
-    transition: .3s all;
-
-    &::before {
-        position: absolute;
-        top: 0;
-        left: 0;
-        content: ' ';
-        width: 0;
-        height: 100%;
-        transition: .3s ease-in-out;
-        background-color: yellow;
-        color: $primary-light-blue;
-    }
-
-    &:hover::before {
-        width: 100%;
-    }
-
-   
-}
 
 
 
